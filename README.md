@@ -7,13 +7,13 @@ CSS
 
 3. Set different background color for each boxes.
 
-4. Add a paragraph "<p>" element into the first div and add the following words ( Paragraph is coming from the lorem ipsum generator ):
+4. Add a paragraph using P tag element into the first div and add the following words ( Paragraph is coming from the lorem ipsum generator ):
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis. 
 
 5. Set the first div to have 20px padding all around with a black 10px border.
 
-6. Fix the style of the "<p>" element to remove all margins.
+6. Fix the style of the P tag element to remove all margins.
 
 Hint: use the CSS inspector in chrome.
 
